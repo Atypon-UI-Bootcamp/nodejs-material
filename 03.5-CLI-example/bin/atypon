@@ -1,0 +1,3 @@
+#! /usr/bin/env node
+const {default:AtyponCLi} = require('../dist/index.js');
+AtyponCLi.run();

@@ -1,0 +1,10 @@
+{
+    "data": {
+        "id": "5e963f8e-aac0-4a9b-b163-5a039e0b7075",
+        "type": "user",
+        "attributes": {
+            "name": "John Doe",
+            "email": "dasdas"
+        }
+    }
+}
